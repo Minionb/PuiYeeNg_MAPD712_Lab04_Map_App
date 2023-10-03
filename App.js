@@ -3,6 +3,7 @@ import { View, StyleSheet } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 
 export default function App() {
+  // Centennial College Progress Campus latitude and longitude
   const mylocation = {
     latitude: 43.7843, 
     longitude: -79.2265, 
